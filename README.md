@@ -4,6 +4,8 @@
 
 The `jekko`  package is a ROS2 package that has been developed by Gizem Erekinci Atlan and Görkem Can Ertemli for the 3rd Semester Prototyping Project of Construction Robotics Masters in RWTH Aachen. It's main purpose is to create and simulate a pick-up skill fo the jekko SPX532 Mini Crane, with the help of a camera device in RVIZ environment.
 
+Original link: https://git.rwth-aachen.de/gorkemcanertemli/ros_groupd_jekko
+
 ## Launch File
 
 "launch.py": This launch file is used to start the RVIZ simulation and all of the required Nodes. Since you also require a companion device setup in your own computer and not in the ROS2 environment it doesn't work without the companion app properly.
